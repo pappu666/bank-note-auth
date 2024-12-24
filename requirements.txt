@@ -3,4 +3,5 @@ Django
 numpy
 pandas
 scikit-learn
+whitenoise
 gunicorn
